@@ -1,7 +1,5 @@
 # otelx
-Custom SpanProcessor and SpanExporter
-
-# usage
+Custom otel SDK-, and otel collector components.
 
 ````go
 import (
